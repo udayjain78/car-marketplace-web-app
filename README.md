@@ -1,25 +1,24 @@
 # Car Marketplace Web Application
 
-A full-stack web application developed for managing and browsing car listings with user authentication and database integration.
+A modern full-stack car marketplace web application developed for browsing and managing vehicle listings.
 
 ---
 
 ## Features
-- User authentication system
-- Car listing management
-- Database integration
-- Dynamic web pages
-- Frontend and backend connectivity
+- Vehicle listing interface
+- Modern responsive UI
+- Dynamic frontend architecture
+- Organized project structure
+- Full-stack web application workflow
 
 ---
 
 ## Technologies Used
-- Python
-- Flask
-- MySQL
+- JavaScript
 - HTML
 - CSS
-- JavaScript
+- Tailwind CSS
+- Vite
 
 ---
 
@@ -28,17 +27,27 @@ A full-stack web application developed for managing and browsing car listings wi
 ```text
 car-marketplace-web-app/
 │
-├── app.py
-├── templates/
-├── static/
-├── database/
+├── api/
+├── configs/
+├── public/
+├── src/
+├── package.json
 └── README.md
 ```
 
 ---
 
 ## Purpose
-This project was developed as a full-stack web development and database management practice project.
+This project was developed as a practice project to strengthen full-stack web development and frontend architecture concepts.
+
+---
+
+## Skills Demonstrated
+- Frontend Development
+- Full-Stack Project Structure
+- UI Development
+- Component-Based Architecture
+- Modern JavaScript Tooling
 
 ---
 
