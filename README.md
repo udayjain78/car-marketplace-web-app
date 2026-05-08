@@ -1,8 +1,46 @@
-# React + Vite
+# Car Marketplace Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application developed for managing and browsing car listings with user authentication and database integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User authentication system
+- Car listing management
+- Database integration
+- Dynamic web pages
+- Frontend and backend connectivity
+
+---
+
+## Technologies Used
+- Python
+- Flask
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Project Structure
+
+```text
+car-marketplace-web-app/
+│
+├── app.py
+├── templates/
+├── static/
+├── database/
+└── README.md
+```
+
+---
+
+## Purpose
+This project was developed as a full-stack web development and database management practice project.
+
+---
+
+## Author
+Uday Jain
